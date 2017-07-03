@@ -1,0 +1,42 @@
+C:\Users\MARIAFERNANDA\documents\visual studio 2013\Projects\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.exe.config
+C:\Users\MARIAFERNANDA\documents\visual studio 2013\Projects\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.exe
+C:\Users\MARIAFERNANDA\documents\visual studio 2013\Projects\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.pdb
+C:\Users\MARIAFERNANDA\documents\visual studio 2013\Projects\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Form1.resources
+C:\Users\MARIAFERNANDA\documents\visual studio 2013\Projects\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Afinidad.resources
+C:\Users\MARIAFERNANDA\documents\visual studio 2013\Projects\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.BuscadorProcesos.resources
+C:\Users\MARIAFERNANDA\documents\visual studio 2013\Projects\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Properties.Resources.resources
+C:\Users\MARIAFERNANDA\documents\visual studio 2013\Projects\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.csproj.GenerateResource.Cache
+C:\Users\MARIAFERNANDA\documents\visual studio 2013\Projects\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.exe
+C:\Users\MARIAFERNANDA\documents\visual studio 2013\Projects\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.pdb
+C:\Users\rzuniga\Downloads\ProyectoSO01-master\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.exe.config
+C:\Users\rzuniga\Downloads\ProyectoSO01-master\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.exe
+C:\Users\rzuniga\Downloads\ProyectoSO01-master\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.pdb
+C:\Users\rzuniga\Downloads\ProyectoSO01-master\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.exe
+C:\Users\rzuniga\Downloads\ProyectoSO01-master\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.pdb
+C:\Users\rzuniga\Downloads\ProyectoSO01-master\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.csprojResolveAssemblyReference.cache
+C:\Users\rzuniga\Downloads\ProyectoSO01-master\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Form1.resources
+C:\Users\rzuniga\Downloads\ProyectoSO01-master\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Afinidad.resources
+C:\Users\rzuniga\Downloads\ProyectoSO01-master\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.BuscadorProcesos.resources
+C:\Users\rzuniga\Downloads\ProyectoSO01-master\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Properties.Resources.resources
+C:\Users\rzuniga\Downloads\ProyectoSO01-master\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.csproj.GenerateResource.Cache
+C:\Users\MARIAFERNANDA\Desktop\Nueva carpeta (3)\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.exe.config
+C:\Users\MARIAFERNANDA\Desktop\Nueva carpeta (3)\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.exe
+C:\Users\MARIAFERNANDA\Desktop\Nueva carpeta (3)\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.pdb
+C:\Users\MARIAFERNANDA\Desktop\Nueva carpeta (3)\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Form1.resources
+C:\Users\MARIAFERNANDA\Desktop\Nueva carpeta (3)\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Afinidad.resources
+C:\Users\MARIAFERNANDA\Desktop\Nueva carpeta (3)\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.BuscadorProcesos.resources
+C:\Users\MARIAFERNANDA\Desktop\Nueva carpeta (3)\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Properties.Resources.resources
+C:\Users\MARIAFERNANDA\Desktop\Nueva carpeta (3)\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.csproj.GenerateResource.Cache
+C:\Users\MARIAFERNANDA\Desktop\Nueva carpeta (3)\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.exe
+C:\Users\MARIAFERNANDA\Desktop\Nueva carpeta (3)\ProyectoSO01-master\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.pdb
+C:\Users\MARIAFERNANDA\Desktop\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.exe.config
+C:\Users\MARIAFERNANDA\Desktop\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.exe
+C:\Users\MARIAFERNANDA\Desktop\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.pdb
+C:\Users\MARIAFERNANDA\Desktop\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.exe
+C:\Users\MARIAFERNANDA\Desktop\WindowsAdministrador\WindowsAdministrador\bin\Debug\WindowsAdministrador.pdb
+C:\Users\MARIAFERNANDA\Desktop\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.csprojResolveAssemblyReference.cache
+C:\Users\MARIAFERNANDA\Desktop\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Form1.resources
+C:\Users\MARIAFERNANDA\Desktop\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Afinidad.resources
+C:\Users\MARIAFERNANDA\Desktop\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.BuscadorProcesos.resources
+C:\Users\MARIAFERNANDA\Desktop\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.Properties.Resources.resources
+C:\Users\MARIAFERNANDA\Desktop\WindowsAdministrador\WindowsAdministrador\obj\Debug\WindowsAdministrador.csproj.GenerateResource.Cache
