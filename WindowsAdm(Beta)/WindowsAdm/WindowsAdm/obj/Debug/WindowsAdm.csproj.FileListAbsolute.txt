@@ -1,0 +1,19 @@
+c:\users\mariafernanda\documents\visual studio 2013\Projects\WindowsAdm\WindowsAdm\bin\Debug\WindowsAdm.exe.config
+c:\users\mariafernanda\documents\visual studio 2013\Projects\WindowsAdm\WindowsAdm\bin\Debug\WindowsAdm.exe
+c:\users\mariafernanda\documents\visual studio 2013\Projects\WindowsAdm\WindowsAdm\bin\Debug\WindowsAdm.pdb
+c:\users\mariafernanda\documents\visual studio 2013\Projects\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.Form1.resources
+c:\users\mariafernanda\documents\visual studio 2013\Projects\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.Properties.Resources.resources
+c:\users\mariafernanda\documents\visual studio 2013\Projects\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.csproj.GenerateResource.Cache
+c:\users\mariafernanda\documents\visual studio 2013\Projects\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.exe
+c:\users\mariafernanda\documents\visual studio 2013\Projects\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.pdb
+C:\Users\MARIAFERNANDA\Documents\Visual Studio 2013\Projects\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.csprojResolveAssemblyReference.cache
+C:\Users\MARIAFERNANDA\Desktop\Cuatrimestre VI\Sistemas Operativos\Clase 8\WindowsAdm\WindowsAdm\bin\Debug\WindowsAdm.exe.config
+C:\Users\MARIAFERNANDA\Desktop\Cuatrimestre VI\Sistemas Operativos\Clase 8\WindowsAdm\WindowsAdm\bin\Debug\WindowsAdm.exe
+C:\Users\MARIAFERNANDA\Desktop\Cuatrimestre VI\Sistemas Operativos\Clase 8\WindowsAdm\WindowsAdm\bin\Debug\WindowsAdm.pdb
+C:\Users\MARIAFERNANDA\Desktop\Cuatrimestre VI\Sistemas Operativos\Clase 8\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.AdmWindows.resources
+C:\Users\MARIAFERNANDA\Desktop\Cuatrimestre VI\Sistemas Operativos\Clase 8\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.Procesador.resources
+C:\Users\MARIAFERNANDA\Desktop\Cuatrimestre VI\Sistemas Operativos\Clase 8\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.Properties.Resources.resources
+C:\Users\MARIAFERNANDA\Desktop\Cuatrimestre VI\Sistemas Operativos\Clase 8\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.csproj.GenerateResource.Cache
+C:\Users\MARIAFERNANDA\Desktop\Cuatrimestre VI\Sistemas Operativos\Clase 8\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.exe
+C:\Users\MARIAFERNANDA\Desktop\Cuatrimestre VI\Sistemas Operativos\Clase 8\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.pdb
+C:\Users\MARIAFERNANDA\Desktop\Cuatrimestre VI\Sistemas Operativos\Clase 8\WindowsAdm\WindowsAdm\obj\Debug\WindowsAdm.csprojResolveAssemblyReference.cache
